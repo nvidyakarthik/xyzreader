@@ -1,3 +1,4 @@
-CHANGED,C:\Users\Vidya\xyzreader\XYZReader\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\xyzreader\R$id$override.class
 CHANGED,C:\Users\Vidya\xyzreader\XYZReader\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
-CHANGED,C:\Users\Vidya\xyzreader\XYZReader\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\xyzreader\ui\ArticleDetailActivity$override.class
+CHANGED,C:\Users\Vidya\xyzreader\XYZReader\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\xyzreader\R$color$override.class
+CHANGED,C:\Users\Vidya\xyzreader\XYZReader\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\v7\appcompat\R$color$override.class
+CHANGED,C:\Users\Vidya\xyzreader\XYZReader\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\v7\cardview\R$color$override.class
