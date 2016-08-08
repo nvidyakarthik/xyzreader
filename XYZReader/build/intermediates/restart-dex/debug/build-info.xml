@@ -4,31 +4,26 @@
     api-level="23"
     density="xxhdpi"
     format="7"
-    timestamp="218755804520677"
+    timestamp="38462399826263"
     token="-6931380649114807746" >
 
     <task
         name="javac"
-        duration="960" />
+        duration="8483" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="56" />
+        duration="173" />
     <task
         name="verifier"
-        duration="10" />
+        duration="115" />
 
     <artifact
-        location="C:\Users\Vidya\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
-        type="DEX" />
+        location="C:\Users\Vidya\xyzreader\XYZReader\build\outputs\apk\XYZReader-debug.apk"
+        type="MAIN" />
 
-    <build timestamp="218630681758990" >
-        <artifact
-            location="C:\Users\Vidya\xyzreader\XYZReader\build\outputs\apk\XYZReader-debug.apk"
-            type="MAIN" />
-    </build>
     <build timestamp="218755804520677" >
         <artifact
             location="C:\Users\Vidya\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
